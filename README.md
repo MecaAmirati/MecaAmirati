@@ -3,6 +3,7 @@
 - 📱 I’m currently working on Front-end development
 - 📚 I’m currently learning Angular
 - 📧 How to reach me: matheusamirati@gmail.com
+- 🤖 The robot below is the reason why I love tech!
 
 <div align="center">
 
