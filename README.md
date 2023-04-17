@@ -1,7 +1,7 @@
 ### Hi! I am Amirati 🤘🏻😎
 
-- 📱 I’m currently working on Front-end development
-- 📚 I’m currently learning Angular
+- 📱 I’m a Front-end developer
+- 📚 I’m currently learning React
 - 📧 How to reach me: matheusamirati@gmail.com
 - 🤖 Ask me about the robot below...
 
